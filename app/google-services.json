@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "336296966946",
+    "firebase_url": "https://chat-app-d0b8f-default-rtdb.firebaseio.com",
+    "project_id": "chat-app-d0b8f",
+    "storage_bucket": "chat-app-d0b8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336296966946:android:e313469d7aab3d0aef837b",
+        "android_client_info": {
+          "package_name": "com.jogog.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336296966946-oivdp20m15n6lpr2tnsl1fp5db988h1b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0iHGDgAphn-_-Tw_jbV2ydtfjJuujgg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336296966946-oivdp20m15n6lpr2tnsl1fp5db988h1b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
